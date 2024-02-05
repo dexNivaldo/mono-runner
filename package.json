@@ -9,7 +9,7 @@
     "clean": "rm -rf node_modules package-lock.json"
   },
   "bin": {
-    "mono-runner": "./dist/index.js"
+    "dex-runner": "./dist/index.js"
   },
   "repository": "https://github.com/dexNivaldo/mono-runner",
   "homepage": "https://github.com/dexNivaldo/mono-runner#readme",
