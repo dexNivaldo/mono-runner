@@ -1,5 +1,5 @@
 {
-  "name": "@dexfreight-dev/mono-runner",
+  "name": "dex-runner",
   "version": "0.0.1",
   "description": "cli to improve run commands in a monorepo (turborepo)",
   "main": "dist/index.js",
